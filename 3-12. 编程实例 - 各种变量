@@ -1,0 +1,2 @@
+#定义一个字符串，使其输出结果如下图所示
+print ''''%s' \n\\"%s" ''' %('Hello, World','Hello,World')
