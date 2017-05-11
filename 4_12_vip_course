@@ -11,7 +11,7 @@ print "你的体质指数为", BMI
 print "你的",
 if BMI < 18.5:
     print "体重偏轻"
-elif BMI >= 18.8 and BMI < 24:
+elif BMI >= 18.5 and BMI < 24:
     print "体重正常"
 elif BMI >= 24:
     print "体重偏重"
